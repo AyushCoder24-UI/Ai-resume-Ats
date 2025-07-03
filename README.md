@@ -1,4 +1,4 @@
-🔍 AI Resume ATS (Frontend Only with Gemini API)
+🔍 AI Resume ATS
 AI Resume ATS is a fully frontend-based web application that uses Google’s Gemini API to evaluate resumes for ATS (Applicant Tracking System) compatibility. This tool helps job seekers improve their resumes by providing an AI-generated score and actionable feedback based on the job description and resume content.
 
 🚀 Key Features:
