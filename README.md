@@ -29,7 +29,7 @@ Frontend: HTML, CSS, JavaScript, React
 
 AI Integration: Google Gemini API (via client-side or serverless functions)
 
-File Parsing: JavaScript-based PDF/text parsing libraries (e.g., pdf.js)
+File Parsing: JavaScript-based PDF
 
 📦 Use Case:
 🧑‍💼 Job Seekers: Tailor resumes to specific roles with AI help.
